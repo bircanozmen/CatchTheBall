@@ -8,9 +8,10 @@
 
 ![game](https://user-images.githubusercontent.com/80538415/189542162-3424bb94-e6a5-44c3-b823-99773a83a4ff.png)
 
-$~~~~~~~~~~~$
 
-$~~~~~~~~~~~$
+<br>
+
+<br>
 
 ![game1](https://user-images.githubusercontent.com/80538415/189542172-a388f192-e29b-49f3-89f2-b7491c870de8.png)
 
