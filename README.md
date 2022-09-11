@@ -4,6 +4,10 @@
 
 ### *After 10 seconds the program will ask the user if they play again.*
 
-![game](https://user-images.githubusercontent.com/80538415/189542070-e7049ec3-2eb8-4a4d-a788-b6a906c88349.png)
 
-![game1](https://user-images.githubusercontent.com/80538415/189542074-48cbc5ec-19b9-4e6b-96c3-6426275bb032.png)
+
+![game](https://user-images.githubusercontent.com/80538415/189542162-3424bb94-e6a5-44c3-b823-99773a83a4ff.png)
+
+
+![game1](https://user-images.githubusercontent.com/80538415/189542172-a388f192-e29b-49f3-89f2-b7491c870de8.png)
+
